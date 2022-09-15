@@ -56,6 +56,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{
+        name: 'keywords', content: 'dont starve together, dst, server, pricing, cheap, regions'
+      }],
       navbar: {
         title: "Don't Starve Together Server",
         logo: {
@@ -63,12 +66,12 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
+          {
+            type: 'doc',
+            docId: 'terms-and-conditions',
+            position: 'left',
+            label: 'Terms and Policy',
+          },
           // { to: '/blog', label: 'Blog', position: 'left' }, 
           {
             href: 'https://github.com/dstserver/website',
@@ -80,15 +83,19 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          // {
-          //   title: 'Docs',
-          //   items: [
-          //     {
-          //       label: 'Tutorial',
-          //       to: '/docs/intro',
-          //     },
-          //   ],
-          // },
+          {
+            title: 'Docs',
+            items: [
+              {
+                label: 'Terms and Conditions',
+                to: '/docs/terms-and-conditions',
+              },
+              {
+                label: 'Privacy Policy',
+                to: '/docs/privacy-policy',
+              },
+            ],
+          },
           {
             title: 'Community',
             items: [
@@ -105,10 +112,6 @@ const config = {
           {
             title: 'More',
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
