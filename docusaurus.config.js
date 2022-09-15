@@ -56,11 +56,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      metadata: [{
-        name: 'keywords', content: 'dont starve together, dst, server, pricing, cheap, regions',
-      }, {
-        name: 'og:image', content: 'https://dstserver.cloud/img/ogimage.png'
-      }],
+      metadata: [
+        {
+          name: 'keywords', content: 'dont starve together, dst, server, pricing, cheap, regions',
+        },
+        { name: 'og:image', content: 'https://dstserver.cloud/img/ogimage.png' },
+        { name: 'og:image:width', content: '1600' },
+        { name: 'og:image:height', content: '630' },
+      ],
       navbar: {
         title: "Don't Starve Together Server",
         logo: {
