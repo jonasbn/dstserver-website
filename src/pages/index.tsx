@@ -4,6 +4,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import Head from "@docusaurus/Head";
 
 import styles from "./index.module.css";
 
@@ -35,6 +36,9 @@ export default function Home(): JSX.Element {
       title={`${siteConfig.title}`}
       description="Launching Don't Starve Together dedicated server at any regions in the world. Join mailing list for latest news and special offers."
     >
+      <Head>
+        <meta property="og:image" content="img/logo.png" />
+      </Head>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
