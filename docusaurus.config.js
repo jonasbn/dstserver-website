@@ -14,6 +14,11 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
+  themes: [
+    [require.resolve("@easyops-cn/docusaurus-search-local"),
+    { hashed: true }]
+  ],
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dstserver', // Usually your GitHub org/user name.
