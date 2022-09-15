@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Don't Starve Together Server",
-  tagline: "Launch dedicated server at any regions in the world.",
+  tagline: "Launch dedicated server at any regions in the world. Be an early fundraiser today!",
   url: 'https://dstserver.cloud/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,7 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [{
-        name: 'keywords', content: 'dont starve together, dst, server, pricing, cheap, regions'
+        name: 'keywords', content: 'dont starve together, dst, server, pricing, cheap, regions',
+      }, {
+        name: 'og:image', content: 'https://dstserver.cloud/img/logo.png'
       }],
       navbar: {
         title: "Don't Starve Together Server",
