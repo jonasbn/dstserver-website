@@ -59,7 +59,7 @@ const config = {
       metadata: [{
         name: 'keywords', content: 'dont starve together, dst, server, pricing, cheap, regions',
       }, {
-        name: 'og:image', content: 'https://dstserver.cloud/img/logo.png'
+        name: 'og:image', content: 'https://dstserver.cloud/img/ogimage.png'
       }],
       navbar: {
         title: "Don't Starve Together Server",
