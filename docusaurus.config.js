@@ -82,7 +82,7 @@ const config = {
             position: 'left',
             label: 'Terms and Policy',
           },
-          // { to: '/blog', label: 'Blog', position: 'left' }, 
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/dstserver/website',
             label: 'GitHub',
@@ -107,6 +107,15 @@ const config = {
             ],
           },
           {
+            title: 'Blogs',
+            items: [
+              {
+                label: 'Fundraising',
+                to: '/blog/2022/10/15/seeking-funding'
+              }
+            ]
+          },
+          {
             title: 'Community',
             items: [
               {
@@ -129,7 +138,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DST Server, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} dstserver.cloud, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
