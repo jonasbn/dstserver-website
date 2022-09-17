@@ -122,6 +122,10 @@ Affiliate with DST Groups via Discord and Steam.
 
 Sponsoring servers for large DST groups on Discord and Steam.
 
+#### Give away skin
+
+If you ever play DST for long enough, you would understand how much skin means to players.
+
 ### Hiring
 
 To launch a SaaS bootstrapping. Early hiring and hiring the right people is one of the keys for early success and long-term development.
