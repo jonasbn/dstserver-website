@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'Fundraising',
-                to: '/blog/2022/10/15/seeking-funding'
+                to: '/blog/2022/10/15/fundraising'
               }
             ]
           },
