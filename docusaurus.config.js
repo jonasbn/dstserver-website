@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Don't Starve Together Server",
+  title: "dstserver.cloud",
   tagline: "Launch dedicated server at any regions in the world. Be an early fundraiser today to get extra reward!",
   url: process.env.URL ?? 'https://dstserver.cloud',
   baseUrl: '/',
@@ -67,9 +67,9 @@ const config = {
         }
       ],
       navbar: {
-        title: "Don't Starve Together Server",
+        title: "dstserver.cloud",
         logo: {
-          alt: "Don't Starve Together Server",
+          alt: "dstserver.cloud",
           src: 'img/logo.png',
         },
         items: [
