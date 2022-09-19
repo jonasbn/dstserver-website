@@ -4,7 +4,6 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
-import Head from "@docusaurus/Head";
 
 import styles from "./index.module.css";
 
@@ -18,10 +17,9 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="https://gogetfunding.com/dst-server/"
-            target="_blank"
+            to="/blog/2022/10/15/fundraising"
           >
-            Fund us - 5min ⏱
+            Fundraising 💰
           </Link>
         </div>
       </div>
