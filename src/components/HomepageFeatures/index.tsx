@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/globe-eurafrica.svg").default,
     description: (
       <>
-        34 dedicated server regions over the world to make sure homies have a
+        38 dedicated server regions over the world to make sure homies have a
         great time together.
       </>
     ),

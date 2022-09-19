@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Don't Starve Together Server",
-  tagline: "Launch dedicated server at any regions in the world. Be an early fundraiser today!",
-  url: 'https://dstserver.cloud/',
+  title: "dstserver.cloud",
+  tagline: "Launch dedicated server at any regions in the world. Be an early fundraiser today to get extra reward!",
+  url: process.env.URL ?? 'https://dstserver.cloud',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,15 +64,12 @@ const config = {
       metadata: [
         {
           name: 'keywords', content: 'dont starve together, dst, server, pricing, cheap, regions',
-        },
-        { name: 'og:image', content: 'https://dstserver.cloud/img/ogimage.png' },
-        { name: 'og:image:width', content: '1600' },
-        { name: 'og:image:height', content: '630' },
+        }
       ],
       navbar: {
-        title: "Don't Starve Together Server",
+        title: "dstserver.cloud",
         logo: {
-          alt: "Don't Starve Together Server",
+          alt: "dstserver.cloud",
           src: 'img/logo.png',
         },
         items: [
@@ -82,7 +79,7 @@ const config = {
             position: 'left',
             label: 'Terms and Policy',
           },
-          // { to: '/blog', label: 'Blog', position: 'left' }, 
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/dstserver/website',
             label: 'GitHub',
@@ -107,6 +104,15 @@ const config = {
             ],
           },
           {
+            title: 'Blogs',
+            items: [
+              {
+                label: 'Fundraising',
+                to: '/blog/2022/09/19/fundraising'
+              }
+            ]
+          },
+          {
             title: 'Community',
             items: [
               {
@@ -129,7 +135,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DST Server, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} dstserver.cloud, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
