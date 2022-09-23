@@ -50,15 +50,15 @@ The [dstserver.cloud](https://dstserver.cloud) allows you to quickly deploy/term
 
 ### Web-based server monitoring
 
-The [dstserver.cloud](https://dstserver.cloud) help you manage all of your servers without opening the game. You can check CPU/ram usage, send messages to players, rollback, regenerate, and kick griefer via the web.
+The [dstserver.cloud](https://dstserver.cloud) help you manage all of your servers without opening the game. You can check CPU/ram usage, send messages to players, rollback, regenerate, and kick griefers via the web.
 
 Also, you can trace logs via the web to identify suspicious behaviors and potentially prevent griefers.
 
-### Anti-griefer
+### Anti griefers
 
 The [dstserver.cloud](https://dstserver.cloud) shares and maintain a blacklist with other groups so that you can mitigate the risk that your base getting burnt.
 
-More important, you will be able to report griefer, too.
+More important, you will be able to report griefers, too.
 
 ### Containerize
 
