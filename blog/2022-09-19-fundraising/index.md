@@ -6,17 +6,12 @@ description: >
   $50 or more to get 200% and getting invited into beta testers program.
 authors: chientrm
 image: /img/fundraising.jpg
-tags:
-  - fundraising
-  - donate
-  - fund
-  - features
-  - investment
+tags: [fundraising, donate, fund, features, investment]
 ---
 
 ![Fundraising](/img/fundraising.jpg)
 
-## Why [dstserver.cloud](https://dstserver.cloud)?
+## Introduction
 
 The `dstserver.cloud` help players quickly start Don't Starve Together server.
 
@@ -24,7 +19,7 @@ We are looking for funding now.
 
 <div style={{ width: "140px" }}>
   <iframe
-    src="https://gogetfunding.com/embed-widget2?campaignid=7667300&frame_type=t3"
+    src=`https://gogetfunding.com/embed-widget2?campaignid=7667300&frame_type=t3`
     style={{ width: "100%", height: "310px", border: "none" }}
     scrolling="no"
   ></iframe>
