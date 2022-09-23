@@ -18,9 +18,7 @@ tags:
 
 ## Why [dstserver.cloud](https://dstserver.cloud)?
 
-The [dstserver.cloud](
-  https://dstserver.cloud
-  ) help players quickly start Don't Starve Together server.
+The `dstserver.cloud` help players quickly start Don't Starve Together server.
 
 We are looking for funding now.
 
@@ -34,19 +32,27 @@ We are looking for funding now.
 
 ### 38 server regions over the world
 
-Many game hosting providers force you to share resources with other people on a big server so that they can only host at most ~5 servers over the world. Meanwhile, [dstserver.cloud](https://dstserver.cloud) let you run a DST server on a standalone machine with `38 regions` over the world to make sure that you will get the lowest latency and highest performance possible.
+Many service providers launch your server long other people's servers,
+so that they can only host at most ~5 servers over the world.
+Meanwhile, `dstserver.cloud` run your server on a standalone machine.
+We sustain `38 regions` worldwide to deliver you the lowest latency.
 
-### Native server and mod configuration
+### Native server and mod configurations
 
-Have you ever tried to run a simple DST server, but it keeps crashing without any further information? How about installing a mod that is a nightmare even for experienced players?
-
-Don't worry, [dstserver.cloud](https://dstserver.cloud) will handle that. Now you can quickly try thousands of DST workshop items without studying them.
+Have you ever tried to run a server, but it keeps crashing unexpectedly?
+How about installing a mod that is a nightmare even for experienced players?
+From now on, `dstserver.cloud` will handle that.
+You can quickly try thousands of DST workshop items without studying them.
 
 ### Per minute payment
 
-Sometimes you want to quickly start a server to play with your friend, test out a new workshop item, and play for a couple of hours a day, roughly 2-3 days a week. But all the providers force you to buy a monthly subscription.
+Imagine you want to play DST with your friend,
+test out a new workshop item,
+play for a couple of hours a day and roughly 2-3 days a week.
+But all the providers force you to buy a monthly subscription.
 
-The [dstserver.cloud](https://dstserver.cloud) allows you to quickly deploy/terminate the server in less than a minute, and the pay-per-minute model will help you save tons of money while you can still try new stuff.
+dstserver.cloud can quickly deploy/terminate the server in less than a minute.
+Furthermore, the pay-per-minute model will save you tons of money.
 
 | Payment mode      | Pros                    | Cons                             |
 | ----------------- | ----------------------- | -------------------------------- |
@@ -55,26 +61,29 @@ The [dstserver.cloud](https://dstserver.cloud) allows you to quickly deploy/term
 
 ### Web-based server monitoring
 
-The [dstserver.cloud](https://dstserver.cloud) help you manage all of your servers without opening the game. You can check CPU/ram usage, send messages to players, rollback, regenerate, and kick griefers via the web.
+The `dstserver.cloud` help you manage the servers without opening the game.
 
-Also, you can trace logs via the web to identify suspicious behaviors and potentially prevent griefers.
+- Check CPU/RAM usage
+- send messages to players
+- Rollback/regenerate
+- Kick griefers
+- Real-time logs tracing
 
 ### Anti griefers
 
-The [dstserver.cloud](https://dstserver.cloud) shares and maintain a blacklist with other groups so that you can mitigate the risk that your base getting burnt.
-
-More important, you will be able to report griefers, too.
+The `dstserver.cloud` maintains a blacklist to keep your servers from griefers.
+Moreover, you can contribute by reporting them, too.
 
 ### Containerize
 
-Many providers use container technology to quickly develop, deploy and test their servers. However, it eats up your RAM to hundreds of MB and makes your server run slower than a native machine.
-
-With [dstserver.cloud](https://dstserver.cloud), we deploy your game server directly on Linux OS without any level of containerization or resource-sharing.
-Furthermore, by avoiding containerization, the server booting time reduces from ~5 minutes to < 1 minute.
+Other providers use container to quickly develop, deploy and test the servers.
+However, it eats up your RAM and slow down your machine.
+Meanwhile, `dstserver.cloud` deploy your server directly on Linux OS.
+Furthermore, booting time reduces from ~5 minutes to < 1 minute.
 
 ### Scheduling for auto start/stop
 
-You can create a schedule to start the server at `5:00 PM` when you come home and stop the server at `midnight` when all your gang to go sleep.
+Create schedules to start server when you play and stop when you go to sleep.
 
 ### Features Summary
 
@@ -90,15 +99,13 @@ You can create a schedule to start the server at `5:00 PM` when you come home an
 
 ## Budget usage
 
-This section describes how would we use the funding money to develop the [dstserver.cloud](https://dstserver.cloud).
+This section describes how we use the money to develop the `dstserver.cloud`.
 
 ### Testing
 
-To successfully bootstrap a product, testing is the most important step, especially in the early phases.
-
-Although cloud technology is quite efficient and convenient, the cost of launching and testing game servers using it is not cheap.
-
-The [dstserver.cloud](https://dstserver.cloud) leverage the advancement of [sentry.io](https://sentry.io/) to auto-report crashing on the client-side.
+To bootstrap a product, testing is the most important, even in early phases.
+Although cloud services are convenient, launching and testing cost is high.
+The `dstserver.cloud` use `Sentry.io` to track errors.
 
 ![Sentry.io](https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png)
 
@@ -110,23 +117,21 @@ Free credit for first-time login users.
 
 #### Gift code
 
-Periodically give gift codes to targeted player groups via Discord and Steam.
+Give gift codes for users after they share `dstserver.cloud` to their socials.
 
 #### Referral links
 
-By introducing [dstserver.cloud](https://dstserver.cloud) to other people, players will get extra credit per user they recommended.
+By introducing `dstserver.cloud`, players get credit per user they recommended.
 
 #### YouTube advertisement
 
-This method should be considered in later marking phases because its cost is higher compared to the above methods.
+YouTube advertisement is efficient while the cost is higher.
 
 #### Education via blog posts
 
-```
-Education is the best way to marketing
-```
+> Education is the best way to marketing
 
-The [dstserver.cloud](https://dstserver.cloud) will maintain a dedicated team for writing tutorials and guides on playing the game.
+Dedicated team for writing wiki and tutorials on playing game.
 
 #### Showcases
 
@@ -142,13 +147,13 @@ Sponsoring servers for large DST groups on Discord and Steam.
 
 #### Give away skin
 
-If you ever play DST for long enough, you would understand how much skin means to players.
+Skins are vital factor in game.
 
 ### Hiring
 
-Early hiring and hiring the right people is one of the keys for early success and long-term development.
+Early hiring and hiring the right one is the key to long-term success.
 
-| Position we're hiring              | Amount |
+| Positions                          | Amount |
 | ---------------------------------- | ------ |
 | Blog writers/Customer support      | 1      |
 | Testers                            | 1      |
