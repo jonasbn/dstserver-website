@@ -89,7 +89,7 @@ This section describes how would we use the funding money to develop the [dstser
 
 ### Testing
 
-To successfully boostrap a product, testing is the most important step, especially in the early phases.
+To successfully bootstrap a product, testing is the most important step, especially in the early phases.
 
 Although cloud technology is quite efficient and convenient, the cost of launching and testing game servers using it is not cheap.
 
@@ -141,7 +141,7 @@ If you ever play DST for long enough, you would understand how much skin means t
 
 ### Hiring
 
-To launch a SaaS bootstrapping. Early hiring and hiring the right people is one of the keys for early success and long-term development.
+Early hiring and hiring the right people is one of the keys for early success and long-term development.
 
 | Position we're hiring              | Amount |
 | ---------------------------------- | ------ |
