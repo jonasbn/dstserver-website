@@ -112,7 +112,7 @@ Free credit for first-time login users.
 
 #### Gift code
 
-Give gift codes for users after they share or do survey.
+Give gift codes to users after they share or do survey.
 
 #### Referral links
 
@@ -143,7 +143,7 @@ Sponsoring servers for large DST groups on Discord and Steam.
 #### Skin
 
 Skin is a vital factor in the game.
-Players received skins for sharing or doing survey.
+Players received skins for sharing or doing a survey.
 
 ### Hiring
 
