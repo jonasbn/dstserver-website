@@ -54,7 +54,7 @@ The [dstserver.cloud](https://dstserver.cloud) help you manage all of your serve
 
 Also, you can trace logs via the web to identify suspicious behaviors and potentially prevent griefers.
 
-### OMG Griefer!
+### Anti-griefer
 
 The [dstserver.cloud](https://dstserver.cloud) shares and maintain a blacklist with other groups so that you can mitigate the risk that your base getting burnt.
 
@@ -178,7 +178,7 @@ Experience:
 ## Contacts
 
 - Twitter: [@chientrm](https://twitter.com/chientrm/)
-- Linkedin: [in/chientrm](https://www.linkedin.com/in/chientrm/)
+- LinkedIn: [in/chientrm](https://www.linkedin.com/in/chientrm/)
 - Steam: [chientrm](https://steamcommunity.com/profiles/76561199127037806/)
 - Gmail: [chientrm@gmail.com](mailto:chientrm@gmail.com)
 - Discord : `chientrm#5955`
