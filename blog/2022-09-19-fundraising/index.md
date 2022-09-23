@@ -157,7 +157,7 @@ Early hiring and hiring the right one is the key to long-term success.
 
 ## Partners program
 
-We're looking for funders, co-funders and custom partner programs.
+We're looking for investors, co-funders and custom partner programs.
 
 ## Tech stack
 
