@@ -89,9 +89,9 @@ This section describes how would we use the funding money to develop the [dstser
 
 ### Testing
 
-For any SaaS product bootstrapping, testing is the most important step, especially in the early phases.
+To successfully boostrap a product, testing is the most important step, especially in the early phases.
 
-Although cloud technology is quite efficient and convenient, the cost of launching and testing game servers using the cloud is not cheap.
+Although cloud technology is quite efficient and convenient, the cost of launching and testing game servers using it is not cheap.
 
 The [dstserver.cloud](https://dstserver.cloud) leverage the advancement of [sentry.io](https://sentry.io/) to auto-report crashing on the client-side.
 
@@ -161,9 +161,9 @@ We're looking for `funders`, `co-funders` and custom partner programs.
 | Server infrastructure | [![Google Cloud](https://www.gstatic.com/devrel-devsite/prod/vffd018bcebd9f992461fcf8c2524008d6af4554126dbf8af33580dab17fc63db/cloud/images/social-icon-google-cloud-1200-630.png)](https://cloud.google.com/) |
 | Atomic database       | [![Supabase](https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--light.svg)](https://supabase.com/)                                               |
 | Homepage              | [![Docusaurus](https://v1.docusaurus.io/img/docusaurus.svg)](https://docusaurus.io/)                                                                                                                           |
-| App analytics         | [![Sentry](https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png)](https://sentry.io/)                                                                                             |
+| Error tracking        | [![Sentry](https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png)](https://sentry.io/)                                                                                             |
 
-## Funder
+## Owner
 
 | Full name  | Gender | Age | Nationality |
 | ---------- | ------ | --- | ----------- |
@@ -180,7 +180,7 @@ Experience:
 - Twitter: [@chientrm](https://twitter.com/chientrm/)
 - LinkedIn: [in/chientrm](https://www.linkedin.com/in/chientrm/)
 - Steam: [chientrm](https://steamcommunity.com/profiles/76561199127037806/)
-- Gmail: [chientrm@gmail.com](mailto:chientrm@gmail.com)
+- Email: [chientrm@gmail.com](mailto:chientrm@gmail.com)
 - Discord : `chientrm#5955`
 
 <div style={{ width: "140px" }}>
