@@ -6,9 +6,9 @@ image: /img/fundraising.jpg
 tags:
   - fundraising
   - donate
-  - funder
+  - fund
   - features
-  - strategy
+  - investment
 ---
 
 ![Seeking for funding](/img/fundraising.jpg)
@@ -41,7 +41,7 @@ Don't worry, [dstserver.cloud](https://dstserver.cloud) will handle that. Now yo
 
 Sometimes you want to quickly start a server to play with your friend, test out a new workshop item, and play for a couple of hours a day, roughly 2-3 days a week. But all the providers force you to buy a monthly subscription.
 
-The [dstserver.cloud](https://dstserver.cloud) allows you to quickly deploy/terminate the server in less than a minute and the pay-per-minute model will help you save tons of money while you can still try new stuff.
+The [dstserver.cloud](https://dstserver.cloud) allows you to quickly deploy/terminate the server in less than a minute, and the pay-per-minute model will help you save tons of money while you can still try new stuff.
 
 | Payment mode      | Pros                    | Cons                             |
 | ----------------- | ----------------------- | -------------------------------- |
@@ -151,7 +151,7 @@ To launch a SaaS bootstrapping. Early hiring and hiring the right people is one 
 
 ## Partners program
 
-We're looking for `funders`, `co-funders` and sort out custom partner programs.
+We're looking for `funders`, `co-funders` and custom partner programs.
 
 ## Tech stack
 
@@ -163,21 +163,25 @@ We're looking for `funders`, `co-funders` and sort out custom partner programs.
 | Homepage              | [![Docusaurus](https://v1.docusaurus.io/img/docusaurus.svg)](https://docusaurus.io/)                                                                                                                           |
 | App analytics         | [![Sentry](https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png)](https://sentry.io/)                                                                                             |
 
-## Funder profile and contacts
+## Funder
 
-I'm `Chien Tran`, `male`, `25` years old, come from `Vietnam`.
+| Full name  | Gender | Age | Nationality |
+| ---------- | ------ | --- | ----------- |
+| Chien Tran | male   | 25  | Vietnam     |
 
-My internet footprint is `chientrm`.
+Experience:
 
-- [Twitter](https://twitter.com/chientrm/)
-- [Linkedin](https://www.linkedin.com/in/chientrm/)
-- [Steam](https://steamcommunity.com/profiles/76561199127037806/)
-- [Gmail](mailto:chientrm@gmail.com)
+- 5+ years of experience working in software development.
+- 2 years working for software companies.
+- 2700+ hours of playing `Don't Starve Together`.
+
+## Contacts
+
+- Twitter: [@chientrm](https://twitter.com/chientrm/)
+- Linkedin: [in/chientrm](https://www.linkedin.com/in/chientrm/)
+- Steam: [chientrm](https://steamcommunity.com/profiles/76561199127037806/)
+- Gmail: [chientrm@gmail.com](mailto:chientrm@gmail.com)
 - Discord : `chientrm#5955`
-
-I have 5+ years of experience working in software development, and 2 years working for software companies.
-
-I have 2700+ hours of playing `Don't Starve Together`, used to be an admin of the [Largest DST group on Discord](https://discord.gg/dst-survivors).
 
 <div style={{ width: "140px" }}>
   <iframe
