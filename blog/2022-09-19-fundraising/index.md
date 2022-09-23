@@ -33,15 +33,15 @@ Many game hosting providers force you to share resources with other people on a 
 
 ### Native server and mod configs
 
-Have you ever tried to run a simple DST server but it keeps crashing without any further information? How about installing a mod that is a nightmare even for experienced players?
+Have you ever tried to run a simple DST server, but it keeps crashing without any further information? How about installing a mod that is a nightmare even for experienced players?
 
 Don't worry, [dstserver.cloud](https://dstserver.cloud) will handle that. Now you can quickly try thousands of DST workshop items without studying them.
 
 ### Per minute payment
 
-Sometimes you want to quickly start a server to play with your friend, test out a new workshop item, and play for a couple of hours a day, roughly 2-3 days a week. But all the hosters force you to buy a monthly subscription.
+Sometimes you want to quickly start a server to play with your friend, test out a new workshop item, and play for a couple of hours a day, roughly 2-3 days a week. But all the providers force you to buy a monthly subscription.
 
-Now [dstserver.cloud](https://dstserver.cloud) allows you to quickly deploy/terminate the server in less than a minute and the pay-per-minute model will help you save tons of money while you can still try new stuff.
+The [dstserver.cloud](https://dstserver.cloud) allows you to quickly deploy/terminate the server in less than a minute and the pay-per-minute model will help you save tons of money while you can still try new stuff.
 
 | Payment mode      | Pros                    | Cons                             |
 | ----------------- | ----------------------- | -------------------------------- |
@@ -50,19 +50,19 @@ Now [dstserver.cloud](https://dstserver.cloud) allows you to quickly deploy/term
 
 ### Web-based server monitoring
 
-[dstserver.cloud](https://dstserver.cloud) help you manage all of your servers without opening the game. You can check CPU/ram usage, send messages to players, rollback, regen, and kick griefer via the web.
+The [dstserver.cloud](https://dstserver.cloud) help you manage all of your servers without opening the game. You can check CPU/ram usage, send messages to players, rollback, regenerate, and kick griefer via the web.
 
 Also, you can trace logs via the web to identify suspicious behaviors and potentially prevent griefers.
 
-### OMGGGG Griefer!!!
+### OMG Griefer!
 
-[dstserver.cloud](https://dstserver.cloud) shares and maintain a blocklist with other groups so that you can mitigate the risk that your base getting burnt.
+The [dstserver.cloud](https://dstserver.cloud) shares and maintain a blacklist with other groups so that you can mitigate the risk that your base getting burnt.
 
 More important, you will be able to report griefer, too.
 
 ### Containerize
 
-Many hosters use container technology to quickly develop, deploy and test their servers. However, it eats up your RAM to hundreds of MB and makes your server run slower than a native machine.
+Many providers use container technology to quickly develop, deploy and test their servers. However, it eats up your RAM to hundreds of MB and makes your server run slower than a native machine.
 
 With [dstserver.cloud](https://dstserver.cloud), we deploy your game server directly on Linux OS without any level of containerization or resource-sharing.
 Furthermore, by avoiding containerization, the server booting time reduces from ~5 minutes to < 1 minute.
@@ -85,7 +85,7 @@ You can create a schedule to start the server at `5:00 PM` when you come home an
 
 ## Budget usage
 
-This section describes how would we use the funding money to develop [dstserver.cloud](https://dstserver.cloud).
+This section describes how would we use the funding money to develop the [dstserver.cloud](https://dstserver.cloud).
 
 ### Testing
 
@@ -93,9 +93,9 @@ For any SaaS product bootstrapping, testing is the most important step, especial
 
 Although cloud technology is quite efficient and convenient, the cost of launching and testing game servers using the cloud is not cheap.
 
-[dstserver.cloud](https://dstserver.cloud) leverage the advancement of [sentry.io](https://sentry.io/) to auto-report crashing on the client-side.
+The [dstserver.cloud](https://dstserver.cloud) leverage the advancement of [sentry.io](https://sentry.io/) to auto-report crashing on the client-side.
 
-![sentry.io](https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png)
+![Sentry.io](https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png)
 
 ### Marketing strategy
 
@@ -111,7 +111,7 @@ Periodically give gift codes to targeted player groups via Discord and Steam.
 
 By introducing [dstserver.cloud](https://dstserver.cloud) to other people, players will get extra credit per user they recommended.
 
-#### Youtube advertisement
+#### YouTube advertisement
 
 This method should be considered in later marking phases because its cost is higher compared to the above methods.
 
@@ -121,7 +121,7 @@ This method should be considered in later marking phases because its cost is hig
 Education is the best way to marketing
 ```
 
-[dstserver.cloud](https://dstserver.cloud) will maintain a dedicated team for writing tutorials and guides on playing the game.
+The [dstserver.cloud](https://dstserver.cloud) will maintain a dedicated team for writing tutorials and guides on playing the game.
 
 #### Showcases
 
@@ -145,24 +145,23 @@ To launch a SaaS bootstrapping. Early hiring and hiring the right people is one 
 
 | Position we're hiring              | Amount |
 | ---------------------------------- | ------ |
-| Blog writters/Customer support     | 1      |
+| Blog writers/Customer support      | 1      |
 | Testers                            | 1      |
 | Developers/Branding/meme designers | 1      |
 
 ## Partners program
 
-We're looking for `funders`, and `co-funders` and sort out custom partner programs.
+We're looking for `funders`, `co-funders` and sort out custom partner programs.
 
 ## Tech stack
 
-| System                 | Technology                                                                                                                                                                                                                               |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Web app                | <a href={"https://kit.svelte.dev/"}><img src={"https://kit.svelte.dev/\_app/immutable/assets/svelte-kit-logotype-4cc474e3.svg"} width={"200"} /></a>                                                                                     |
-| Server infrastructure  | <a href={"https://cloud.google.com/"}><img src={"https://www.gstatic.com/devrel-devsite/prod/vffd018bcebd9f992461fcf8c2524008d6af4554126dbf8af33580dab17fc63db/cloud/images/social-icon-google-cloud-1200-630.png"} width={"200"} /></a> |
-| Web app infrastructure | <a href={"https://www.cloudflare.com/"}><img src={"https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloudflare_Logo.svg"} width={"200"} /></a>                                                                                        |
-| Atomic database        | <a href={"https://supabase.com/"}><img src={"https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--light.svg#gh-light-mode-only"} width={"200"} /></a>                        |
-| Homepage               | <a href={"https://docusaurus.io/"}><img src={"https://v1.docusaurus.io/img/docusaurus.svg"} width={"100"} /></a>                                                                                                                         |
-| App analytics          | <a href={"https://sentry.io/"}><img src={"https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png"} width={"200"} /></a>                                                                                       |
+| System                | Technology                                                                                                                                                                                                     |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Web app               | [![SvelteKit](https://kit.svelte.dev/_app/immutable/assets/svelte-kit-logotype-4cc474e3.svg)](https://kit.svelte.dev/)                                                                                         |
+| Server infrastructure | [![Google Cloud](https://www.gstatic.com/devrel-devsite/prod/vffd018bcebd9f992461fcf8c2524008d6af4554126dbf8af33580dab17fc63db/cloud/images/social-icon-google-cloud-1200-630.png)](https://cloud.google.com/) |
+| Atomic database       | [![Supabase](https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--light.svg)](https://supabase.com/)                                               |
+| Homepage              | [![Docusaurus](https://v1.docusaurus.io/img/docusaurus.svg)](https://docusaurus.io/)                                                                                                                           |
+| App analytics         | [![Sentry](https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png)](https://sentry.io/)                                                                                             |
 
 ## Funder profile and contacts
 

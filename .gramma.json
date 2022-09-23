@@ -1,7 +1,11 @@
 {
   "api_url": "https://api.languagetool.org/v2/check",
   "api_key": "",
-  "dictionary": ["gcloud"],
+  "dictionary": [
+    "griefer",
+    "Nodecraft",
+    "Giga"
+  ],
   "language": "en-US",
   "rules": {
     "casing": true,
