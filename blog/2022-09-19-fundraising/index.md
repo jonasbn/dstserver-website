@@ -112,7 +112,7 @@ Free credit for first-time login users.
 
 #### Gift code
 
-Give gift codes to users after they share the site or do survey.
+Give gift codes to users after they share the site or do a survey.
 
 #### Referral links
 
