@@ -1,6 +1,9 @@
 ---
-title: WE NEED YOU! Help dstserver.cloud 💵💵💵 FUNDRAISING 💵💵💵
-description: Donate $20 or more to get 150%, $50 or more to get 200% and getting invited into beta testers program.
+title: dstserver.cloud FUNDRAISING
+description: >
+  Don't Starve Together Server Hosting and Rental.
+  Donate $20 or more to get 150%,
+  $50 or more to get 200% and getting invited into beta testers program.
 authors: chientrm
 image: /img/fundraising.jpg
 tags:
@@ -11,13 +14,15 @@ tags:
   - investment
 ---
 
-![Seeking for funding](/img/fundraising.jpg)
+![Fundraising](/img/fundraising.jpg)
 
 ## Why [dstserver.cloud](https://dstserver.cloud)?
 
-Hello, all DST players, [dstserver.cloud](https://dstserver.cloud) is looking for early funding now.
+The [dstserver.cloud](
+  https://dstserver.cloud
+  ) help players quickly start Don't Starve Together server.
 
-Please read the whole article to understand why should we fund [dstserver.cloud](https://dstserver.cloud)!
+We are looking for funding now.
 
 <div style={{ width: "140px" }}>
   <iframe
