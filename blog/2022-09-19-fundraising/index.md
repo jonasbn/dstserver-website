@@ -74,7 +74,7 @@ Moreover, you can contribute by reporting them, too.
 Other providers use container to quickly develop, deploy and test the servers.
 However, it eats up your RAM and slow down your machine.
 Meanwhile, `dstserver.cloud` deploy your server directly on Linux OS.
-Furthermore, booting time reduces from ~5 minutes to < 1 minute.
+As a result, booting time reduces from ~5 minutes to < 1 minute.
 
 ### Scheduling for auto start/stop
 
@@ -100,7 +100,7 @@ This section describes how we use the money to develop the `dstserver.cloud`.
 
 To bootstrap a product, testing is the most important, even in early phases.
 Although cloud services are convenient, launching and testing cost is high.
-The `dstserver.cloud` use `Sentry.io` to track errors.
+On the other hand, the `dstserver.cloud` use `Sentry.io` to log errors.
 
 ![Sentry.io](https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png)
 
@@ -112,7 +112,7 @@ Free credit for first-time login users.
 
 #### Gift code
 
-Give gift codes for users after they share `dstserver.cloud` to their socials.
+Give gift codes for users after they share or do survey.
 
 #### Referral links
 
@@ -140,9 +140,10 @@ Affiliate with DST Groups via Discord and Steam.
 
 Sponsoring servers for large DST groups on Discord and Steam.
 
-#### Give away skin
+#### Skin
 
 Skin is a vital factor in the game.
+Players received skins for sharing or doing survey.
 
 ### Hiring
 
