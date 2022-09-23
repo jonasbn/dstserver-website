@@ -19,7 +19,7 @@ We are looking for funding now.
 
 <div style={{ width: "140px" }}>
   <iframe
-    src={"https://gogetfunding.com/embed-widget2?campaignid=7667300&frame_type=t3"}
+    src={`https://gogetfunding.com/embed-widget2?campaignid=7667300&frame_type=t3`}
     style={{ width: "100%", height: "310px", border: "none" }}
     scrolling="no"
   ></iframe>
@@ -190,7 +190,7 @@ Experience:
 
 <div style={{ width: "140px" }}>
   <iframe
-    src={"https://gogetfunding.com/embed-widget2?campaignid=7667300&frame_type=t3"}
+    src={`https://gogetfunding.com/embed-widget2?campaignid=7667300&frame_type=t3`}
     style={{ width: "100%", height: "310px", border: "none" }}
     scrolling="no"
   ></iframe>
