@@ -31,7 +31,7 @@ Please read the whole article to understand why should we fund [dstserver.cloud]
 
 Many game hosting providers force you to share resources with other people on a big server so that they can only host at most ~5 servers over the world. Meanwhile, [dstserver.cloud](https://dstserver.cloud) let you run a DST server on a standalone machine with `38 regions` over the world to make sure that you will get the lowest latency and highest performance possible.
 
-### Native server and mod configs
+### Native server and mod configuration
 
 Have you ever tried to run a simple DST server, but it keeps crashing without any further information? How about installing a mod that is a nightmare even for experienced players?
 
