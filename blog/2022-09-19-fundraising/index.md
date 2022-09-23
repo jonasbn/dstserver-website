@@ -51,7 +51,7 @@ test out a new workshop item,
 play for a couple of hours a day and roughly 2-3 days a week.
 But all the providers force you to buy a monthly subscription.
 
-dstserver.cloud can quickly deploy/terminate the server in less than a minute.
+The `dstserver.cloud` can deploy/terminate the server in less than a minute.
 Furthermore, the pay-per-minute model will save you tons of money.
 
 | Payment mode      | Pros                    | Cons                             |
@@ -61,7 +61,7 @@ Furthermore, the pay-per-minute model will save you tons of money.
 
 ### Web-based server monitoring
 
-The `dstserver.cloud` help you manage the servers without opening the game.
+We help you manage the servers without opening the game.
 
 - Check CPU/RAM usage
 - send messages to players
@@ -83,7 +83,7 @@ Furthermore, booting time reduces from ~5 minutes to < 1 minute.
 
 ### Scheduling for auto start/stop
 
-Create schedules to start server when you play and stop when you go to sleep.
+Create schedules to start the server when you play and stop when you sleep.
 
 ### Features Summary
 
@@ -123,9 +123,9 @@ Give gift codes for users after they share `dstserver.cloud` to their socials.
 
 By introducing `dstserver.cloud`, players get credit per user they recommended.
 
-#### YouTube advertisement
+#### YouTube's advertisement
 
-YouTube advertisement is efficient while the cost is higher.
+YouTube's advertisement is efficient while the cost is higher.
 
 #### Education via blog posts
 
@@ -147,7 +147,7 @@ Sponsoring servers for large DST groups on Discord and Steam.
 
 #### Give away skin
 
-Skins are vital factor in game.
+Skin is a vital factor in game.
 
 ### Hiring
 
