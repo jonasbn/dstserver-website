@@ -25,6 +25,8 @@ We are looking for funding now.
   ></iframe>
 </div>
 
+## Features
+
 ### 38 server regions over the world
 
 Many service providers share your server resources with other people,
