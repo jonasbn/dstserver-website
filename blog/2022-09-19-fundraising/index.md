@@ -54,10 +54,10 @@ But all the providers force you to buy a monthly subscription.
 The `dstserver.cloud` can deploy/terminate the server in less than a minute.
 Furthermore, the pay-per-minute model will save you tons of money.
 
-| Payment mode      | Pros                    | Cons                             |
-| ----------------- | ----------------------- | -------------------------------- |
-| Monthly subscribe | Slightly cheaper        | Pay 1 month then play 3 hours 😪 |
-| Pay per minute    | Stop playing anytime 😀 | Slightly cost more               |
+| Payment mode | Pros                    | Cons                             |
+| ------------ | ----------------------- | -------------------------------- |
+| Monthly      | Slightly cheaper        | Pay 1 month then play 3 hours 😪 |
+| Per minute   | Stop playing anytime 😀 | Slightly cost more               |
 
 ### Web-based server monitoring
 
@@ -165,13 +165,13 @@ We're looking for `funders`, `co-funders` and custom partner programs.
 
 ## Tech stack
 
-| System                | Technology                                                                                                                                                                                                     |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Web app               | [![SvelteKit](https://kit.svelte.dev/_app/immutable/assets/svelte-kit-logotype-4cc474e3.svg)](https://kit.svelte.dev/)                                                                                         |
-| Server infrastructure | [![Google Cloud](https://www.gstatic.com/devrel-devsite/prod/vffd018bcebd9f992461fcf8c2524008d6af4554126dbf8af33580dab17fc63db/cloud/images/social-icon-google-cloud-1200-630.png)](https://cloud.google.com/) |
-| Atomic database       | [![Supabase](https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--light.svg)](https://supabase.com/)                                               |
-| Homepage              | [![Docusaurus](https://v1.docusaurus.io/img/docusaurus.svg)](https://docusaurus.io/)                                                                                                                           |
-| Error tracking        | [![Sentry](https://killbill.io/wp-content/uploads/2022/05/sentry-wordmark-dark-400x119-1.png)](https://sentry.io/)                                                                                             |
+| System          | Technology                                              |
+| --------------- | ------------------------------------------------------- |
+| Web app         | [![SvelteKit](sveltekit.svg)](https://kit.svelte.dev/)  |
+| Game Server     | [![Google Cloud](gcp.png)](https://cloud.google.com/)   |
+| Atomic database | [![Supabase](supabase.svg)](https://supabase.com/)      |
+| Homepage        | [![Docusaurus](docusaurus.svg)](https://docusaurus.io/) |
+| Error tracking  | [![Sentry](sentry.png)](https://sentry.io/)             |
 
 ## Owner
 
