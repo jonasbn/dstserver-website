@@ -125,7 +125,7 @@ By introducing `dstserver.cloud`, players get credit per user they recommended.
 
 #### YouTube's advertisement
 
-YouTube's advertisement is efficient while the cost is higher.
+YouTube's advertisement is efficient, while the cost is higher.
 
 #### Education via blog posts
 
@@ -147,7 +147,7 @@ Sponsoring servers for large DST groups on Discord and Steam.
 
 #### Give away skin
 
-Skin is a vital factor in game.
+Skin is a vital factor in the game.
 
 ### Hiring
 
